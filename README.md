@@ -5,7 +5,7 @@
 
 <h3 align="center">About me</h3>
 
-<p align="center">
+
 
 <p align="center">✨ he/him • she/her </p>
 <p align="center">📍 Colombia  </p>
@@ -13,7 +13,7 @@
 <p align="center">🎓 Systems & Computer Engineering Student  </p>
 <p align="center">💕 Frontend Developer passionate about UI/UX. Focused on crafting accessible, inclusive, and user-centered interfaces </p>
 
-</p>
+
 
 <br>
 <h3 align="center">Languages 💻</h3>
