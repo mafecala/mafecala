@@ -1,16 +1,20 @@
-## Hi there 👋
+![Header](./github-header-banner(3).png)
 
-<!--
-**mafecala/mafecala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="250" height="250" src="./kitty.gif">
+<img align="right" width="180"  src="./melody.gif">
 
-Here are some ideas to get you started:
+<h3 align="center">About me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<p align="center">✨ he/she </p>
+<p align="center">📍 Colombia  </p>
+<p align="center">🌐 English / Spanish / Italian </p>
+<p align="center">🎓 Systems & Computer Engineering Student  </p>
+<p align="center">💕 Frontend Developer passionate about UI/UX. Focused on crafting accessible, inclusive, and user-centered interfaces </p>
+
+</p>
+<br>
+
+
+<br>
