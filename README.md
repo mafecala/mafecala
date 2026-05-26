@@ -7,7 +7,7 @@
 
 <p align="center">
 
-<p align="center">✨ he/she </p>
+<p align="center">✨ he/him • she/her </p>
 <p align="center">📍 Colombia  </p>
 <p align="center">🌐 English / Spanish / Italian </p>
 <p align="center">🎓 Systems & Computer Engineering Student  </p>
